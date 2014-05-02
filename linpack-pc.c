@@ -9,6 +9,8 @@
  *  - Slackware 14.0 - gcc 4.7.1 - Thread model: single
  *  - Windows 8      - gcc 4.7.1 - Thread model: win32 (tdm64-1)
  *
+ * Beletti - rhiguita@gmail.com
+ * https://github.com/rhiguita/benchmark
 */
 /********************************************************************
  *
